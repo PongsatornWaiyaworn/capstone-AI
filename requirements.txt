@@ -1,0 +1,12 @@
+opencv-python
+requests
+torch
+numpy
+python-dotenv
+Flask
+ultralytics
+boto3
+pymongo
+flask-cors
+ffmpeg-python
+gunicorn
