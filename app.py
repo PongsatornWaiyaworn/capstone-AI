@@ -96,7 +96,7 @@ def handle_fall_event_async(frame, selected_frames, user_id, name, video_filenam
         })
 
         try:
-            alert_api_url = "http://localhost:5000/alert"
+            alert_api_url = "https://capstone-server-8hss.onrender.com/alert"
             payload = {
                 "image_url": image_url,
                 "video_url": video_url,
